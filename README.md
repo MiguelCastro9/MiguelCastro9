@@ -9,9 +9,6 @@ My main focus is in the area of ​​software development, having as main tool,
 - 💼 Q.A (Quality Assurance)
 
 Reach me out 👇🏻
-[
-![Linkedin Badge](https://www.linkedin.com/in/miguel-castro-b199b71b4/)
-](https://www.linkedin.com/in/miguel-castro-b199b71b4/)[
-![Instagram Badge](https://www.instagram.com/gueel_castro/)
-](https://www.instagram.com/gueel_castro/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Castro-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/miguel-castro-b199b71b4/)](https://www.linkedin.com/in/miguel-castro-b199b71b4/) 
 
