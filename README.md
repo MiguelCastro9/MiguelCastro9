@@ -1,6 +1,6 @@
 # Hello 👋🏻
 
-my name is Miguel Castro, i work and study with TI.
+My name is Miguel Castro, i work and study with TI.
 
 My main focus is in the area of ​​software development, having as main tool, the Java language ☕️.
 
