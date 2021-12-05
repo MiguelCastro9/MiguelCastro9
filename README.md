@@ -1,4 +1,4 @@
-# Hello 👋🏻
+# Hello!
 
 My name is Miguel Castro, i work and study with TI.
 
@@ -6,7 +6,7 @@ My main focus is in the area of ​​software development, having as main tool,
 
 - 📍 São Paulo - Brazil
 - 👨🏻‍🎓 Analysis and Systems Development
-- 💼 Q.A (Quality Assurance)
+- 💼 Developer
 
 Reach me out 👇🏻
 
