@@ -31,6 +31,7 @@ My name is Miguel Castro, I currently work in the area of software development a
 &nbsp;&nbsp;
 <img align="center" alt="miguel-tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/>
 &nbsp;&nbsp;
+<br>
 <img align="center" alt="miguel-heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
 </div>
 
