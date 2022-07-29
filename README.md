@@ -4,7 +4,6 @@ My name is Miguel Castro, I currently work in the area of software development a
 
 <div style="display: inline_block">
 <br>
-
 <img align="center" alt="miguel-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 &nbsp;&nbsp;
 <img align="center" alt="miguel-spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
@@ -30,8 +29,9 @@ My name is Miguel Castro, I currently work in the area of software development a
 <img align="center" alt="miguel-groovy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"/>
 &nbsp;&nbsp;
 <img align="center" alt="miguel-tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/>
-&nbsp;&nbsp;
+</div>
 <br>
+<div style="display: inline_block">
 <img align="center" alt="miguel-heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
 </div>
 
