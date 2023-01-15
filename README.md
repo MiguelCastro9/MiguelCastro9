@@ -1,6 +1,14 @@
-# Hello!
+<hr>
 
-My name is Miguel Castro, I currently work in the area of software development and in my spare time I study new technologies ☕️.
+<i>
+Hello! my name is Miguel Castro,
+<br><br>
+I Believe that technology changes people's lives, whether it's saving time, bringing happiness, comfort or security.
+<br>
+I've been a Java developer since 2018, I love what I do and share new knowledge on github. ☕️
+</i>
+
+<hr>
 
 <div style="display: inline_block">
 <br>
@@ -35,7 +43,7 @@ My name is Miguel Castro, I currently work in the area of software development a
 <img align="center" alt="miguel-heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
 </div>
 
-##
+<hr>
 
 Reach me out 👇🏻
 
