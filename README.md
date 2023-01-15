@@ -41,9 +41,6 @@ I've been a Java developer since 2018, I love what I do and share new knowledge 
 <img align="center" alt="miguel-tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg"/>
 </div>
 <br>
-<div style="display: inline_block">
-<img align="center" alt="miguel-heroku" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/>
-</div>
 
 <hr>
 
