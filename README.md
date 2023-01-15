@@ -18,6 +18,8 @@ I've been a Java developer since 2018, I love what I do and share new knowledge 
 &nbsp;&nbsp;
 <img align="center" alt="miguel-angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 &nbsp;&nbsp;
+<img align="center" alt="miguel-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+&nbsp;&nbsp;
 <img align="center" alt="miguel-ts" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 &nbsp;&nbsp;
 <img align="center" alt="miguel-sql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
