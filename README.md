@@ -20,6 +20,8 @@ I've been a Java developer since 2018, I love what I do and share new knowledge 
   &nbsp;&nbsp;
   <img align="center" alt="miguel-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   &nbsp;&nbsp;
+  <img align="center" alt="miguel-python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  &nbsp;&nbsp;  
   <img align="center" alt="miguel-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   &nbsp;&nbsp;
   <img align="center" alt="miguel-prometheus" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
