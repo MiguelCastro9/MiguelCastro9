@@ -4,8 +4,6 @@
 Hello! my name is Miguel Castro,
 <br><br>
 I Believe that technology changes people's lives, whether it's saving time, bringing happiness, comfort or security.
-<br>
-I've been a Java developer since 2018, I love what I do and share new knowledge on github. ☕️
 </i>
 
 <hr>
