@@ -18,6 +18,8 @@ I Believe that technology changes people's lives, whether it's saving time, brin
   &nbsp;&nbsp;
   <img align="center" alt="miguel-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
   &nbsp;&nbsp;
+  <img align="center" alt="miguel-jenkins" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
+  &nbsp;&nbsp;
   <img align="center" alt="miguel-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
   &nbsp;&nbsp;
   <img align="center" alt="miguel-mongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
@@ -27,7 +29,8 @@ I Believe that technology changes people's lives, whether it's saving time, brin
   <img align="center" alt="miguel-prometheus" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg"/>
   &nbsp;&nbsp;
   <img align="center" alt="miguel-grafana" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg"/>
-
+  &nbsp;&nbsp;
+  <img align="center" alt="miguel-tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg"/>
 
   <br><br>
 
@@ -59,7 +62,6 @@ I Believe that technology changes people's lives, whether it's saving time, brin
   <img align="center" alt="miguel-gitlab" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"/>
   &nbsp;&nbsp;
   <img align="center" alt="miguel-bitbucket" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"/>
-  &nbsp;&nbsp;
 </div>
 <br>
 
