@@ -37,6 +37,8 @@ I Believe that technology changes people's lives, whether it's saving time, brin
   
   <img align="center" alt="miguel-angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   &nbsp;&nbsp;
+  <img align="center" alt="miguel-vuejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>  
+  &nbsp;&nbsp;
   <img align="center" alt="miguel-figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   &nbsp;&nbsp;
   <img align="center" alt="miguel-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
