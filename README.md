@@ -1,10 +1,10 @@
 <hr>
 
-<i>
+<strong>
 Hello! my name is Miguel Castro,
 <br><br>
 I Believe that technology changes people's lives, whether it's saving time, bringing happiness, comfort or security.
-</i>
+</strong>
 
 <hr>
 
@@ -69,7 +69,7 @@ I Believe that technology changes people's lives, whether it's saving time, brin
 
 <hr>
 
-Reach me out 👇🏻
+<strong>Reach me out</strong> 👇🏻
 
 [![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Castro-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-castro-b199b71b4/)](https://www.linkedin.com/in/miguel-castro-b199b71b4/) 
 
