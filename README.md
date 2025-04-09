@@ -69,7 +69,8 @@ I Believe that technology changes people's lives, whether it's saving time, brin
   <img align="center" alt="miguel-trello" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"/>
   &nbsp;&nbsp;
   <img align="center" alt="miguel-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-    
+  &nbsp;&nbsp;
+  <img align="center" alt="miguel-npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
 
   <br><br>
 
@@ -79,10 +80,3 @@ I Believe that technology changes people's lives, whether it's saving time, brin
   <img align="center" alt="miguel-windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
 </div>
 <br>
-
-<hr>
-
-<strong>Reach me out</strong> 👇🏻
-
-[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Castro-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-castro-b199b71b4/)](https://www.linkedin.com/in/miguel-castro-b199b71b4/) 
-
