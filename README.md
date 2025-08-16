@@ -1,9 +1,9 @@
 <hr>
 
 <strong>
-Hello! my name is Miguel Castro,
+Hi, I'm Miguel Castro,
 <br><br>
-I Believe that technology changes people's lives, whether it's saving time, bringing happiness, comfort or security.
+I believe that technology changes people's lives, whether it's saving time, bringing happiness, comfort or security.
 </strong>
 
 <hr>
@@ -18,29 +18,32 @@ I Believe that technology changes people's lives, whether it's saving time, brin
   &nbsp;&nbsp;
   <img align="center" alt="miguel-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"/>
   &nbsp;&nbsp;
-  <img align="center" alt="miguel-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
-  &nbsp;&nbsp;
-  <img align="center" alt="miguel-maven" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"/>
-  &nbsp;&nbsp;
- <img align="center" alt="miguel-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  &nbsp;&nbsp;
-  <img align="center" alt="miguel-mongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  <img align="center" alt="miguel-jenkins" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
   &nbsp;&nbsp;
   <img align="center" alt="miguel-prometheus" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg"/>
   &nbsp;&nbsp;
-  <img align="center" alt="miguel-jenkins" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
-  &nbsp;&nbsp;
   <img align="center" alt="miguel-grafana" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg"/>
   &nbsp;&nbsp;
+  <img align="center" alt="miguel-mongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+  &nbsp;&nbsp;
+  <img align="center" alt="miguel-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+  &nbsp;&nbsp;
+  <img align="center" alt="miguel-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+  &nbsp;&nbsp;
+  <img align="center" alt="miguel-maven" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg"/>
+  &nbsp;&nbsp; 
   <img align="center" alt="miguel-tomcat" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg"/>
-
 
   <br><br>
 
   
   <img align="center" alt="miguel-angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   &nbsp;&nbsp;
+  <img align="center" alt="miguel-react" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  &nbsp;&nbsp;
   <img align="center" alt="miguel-vuejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/>  
+  &nbsp;&nbsp;
+  <img align="center" alt="miguel-ionic" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"/>  
   &nbsp;&nbsp;
   <img align="center" alt="miguel-figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   &nbsp;&nbsp;
